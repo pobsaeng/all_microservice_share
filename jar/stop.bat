@@ -1,0 +1,4 @@
+TASKKILL /FI "WINDOWTITLE eq category"
+TASKKILL /FI "WINDOWTITLE eq products"
+TASKKILL /FI "WINDOWTITLE eq orders"
+
